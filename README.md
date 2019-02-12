@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - it's not been deployed to server yet
 
 you may view the web page by this link:
-
+https://michaelliqx.github.io/Redux_ContactManager/#/
 
 
 ## Available Scripts
